@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a042bdb-d3eb-47a6-8130-7b22f542c4cc" name="Changes" comment="">
+    <list default="true" id="5a042bdb-d3eb-47a6-8130-7b22f542c4cc" name="Changes" comment="Array">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Accessing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Accessing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/hello.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,8 +89,16 @@
       <option name="presentableId" value="Default" />
       <updated>1679996788683</updated>
       <workItem from="1679996791051" duration="1133000" />
-      <workItem from="1681058498752" duration="7948000" />
+      <workItem from="1681058498752" duration="9047000" />
     </task>
+    <task id="LOCAL-00001" summary="Array">
+      <created>1681088001386</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681088001386</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,5 +114,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Array" />
   </component>
 </project>
