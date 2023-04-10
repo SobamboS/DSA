@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a042bdb-d3eb-47a6-8130-7b22f542c4cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Accessing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Insertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/Accessing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Accessing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/hello.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,10 +36,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "configurable.group.tools"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.hello">
+  <component name="RunManager" selected="Application.Accessing">
     <configuration name="Accessing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.Accessing" />
       <module name="DSA" />
@@ -82,8 +76,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.hello" />
         <item itemvalue="Application.Accessing" />
+        <item itemvalue="Application.hello" />
         <item itemvalue="Application.Insertion" />
       </list>
     </recent_temporary>
@@ -97,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1679996788683</updated>
       <workItem from="1679996791051" duration="1133000" />
-      <workItem from="1681058498752" duration="6521000" />
+      <workItem from="1681058498752" duration="7948000" />
     </task>
     <servers />
   </component>
